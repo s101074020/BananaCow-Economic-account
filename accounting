@@ -2,15 +2,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-     <link rel="stylesheet" type="text/css" href="">
-	<title>香蕉記憶軟體!!!</title>
+    <meta name="viewport">
+	<title></title>
 </head>
 <body>
-    date<input type="date" name="">
+date<input type="date" name="">
     mondy<input type="date" name="">
     項目<select id="moomoo">
     <option value="" selected>eat</option>
     <option value="" selected>home</option>
     <option value="" selected>other</option>
+    <option value="" selected></option>
+</body>
+
 </body>
 </html>
